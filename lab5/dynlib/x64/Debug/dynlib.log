@@ -1,0 +1,6 @@
+﻿  libCheck.cpp
+  qCheck.cpp
+D:\all labs\lab5\dynlib\qCheck.cpp(6,14): warning C4101: x: неиспользованная локальная переменная
+  Создание кода...
+     Создается библиотека D:\all labs\lab5\dynlib\x64\Debug\dynlib.lib и объект D:\all labs\lab5\dynlib\x64\Debug\dynlib.exp
+  dynlib.vcxproj -> D:\all labs\lab5\dynlib\x64\Debug\dynlib.dll

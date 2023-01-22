@@ -1,0 +1,5 @@
+﻿  n9.cpp
+D:\all labs\lab4\n9\n9.cpp(20,27): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+D:\all labs\lab4\n9\n9.cpp(40,50): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+D:\all labs\lab4\n9\n9.cpp(13,22): warning C4101: g: неиспользованная локальная переменная
+  n9.vcxproj -> D:\all labs\lab4\n9\x64\Debug\n9.exe

@@ -1,0 +1,9 @@
+﻿  test.cpp
+D:\all labs\lab5\n4_test\test.cpp(6,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n4_test\test.cpp(23,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n4_test\test.cpp(36,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n4_test\test.cpp(51,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n4_test\test.cpp(65,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n4_test\test.cpp(95,34): warning C4244: аргумент: преобразование "__int64" в "long double", возможна потеря данных
+D:\all labs\lab5\n4_test\test.cpp(95,23): warning C4244: +=: преобразование "long double" в "__int64", возможна потеря данных
+  n4_test.vcxproj -> D:\all labs\lab5\n4_test\x64\Debug\n4_test.exe

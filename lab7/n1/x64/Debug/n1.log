@@ -1,0 +1,4 @@
+﻿  n1.cpp
+D:\all labs\lab7\n1\n1.cpp(6,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab4\bestcheck\top.h(140): warning C4715: choice: значение возвращается не при всех путях выполнения
+  n1.vcxproj -> D:\all labs\lab7\n1\x64\Debug\n1.exe

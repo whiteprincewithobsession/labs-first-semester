@@ -1,0 +1,9 @@
+﻿  task12bettertry.cpp
+D:\task12betterway\task12bettertry.cpp(7,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\task12betterway\task12bettertry.cpp(8,36): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\task12betterway\task12bettertry.cpp(12,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\task12betterway\task12bettertry.cpp(17,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\task12betterway\task12bettertry.cpp(27,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\task12betterway\task12bettertry.cpp(32,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\task12betterway\task12bettertry.cpp(33,16): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  task12betterway.vcxproj -> D:\task12betterway\x64\Debug\task12betterway.exe

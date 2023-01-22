@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  test.cpp
+D:\all labs\lab5\n3_test\test.cpp(8,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n3_test\test.cpp(16,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n3_test\test.cpp(25,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n3_test\test.cpp(33,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n3_test\test.cpp(47,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n3_test\test.cpp(61,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n3_test\test.cpp(133,33): warning C4244: +=: преобразование "double" в "__int64", возможна потеря данных
+  n3_test.vcxproj -> D:\all labs\lab5\n3_test\x64\Debug\n3_test.exe

@@ -1,0 +1,18 @@
+﻿  test.cpp
+D:\all labs\lab6\testsforlab6\test.cpp(15,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab6\testsforlab6\test.cpp(20,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab6\testsforlab6\test.cpp(26,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab6\testsforlab6\test.cpp(35,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab6\testsforlab6\test.cpp(47,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab6\testsforlab6\test.cpp(88,13): warning C4101: y: неиспользованная локальная переменная
+D:\all labs\lab6\testsforlab6\test.cpp(114,37): warning C4018: <: несоответствие типов со знаком и без знака
+D:\all labs\lab6\testsforlab6\test.cpp(116,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\all labs\lab6\testsforlab6\test.cpp(121,30): warning C4018: >: несоответствие типов со знаком и без знака
+D:\all labs\lab6\testsforlab6\test.cpp(141,62): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\all labs\lab6\testsforlab6\test.cpp(162,63): warning C4018: <=: несоответствие типов со знаком и без знака
+D:\all labs\lab6\testsforlab6\test.cpp(108,36): warning C4101: answer: неиспользованная локальная переменная
+D:\all labs\lab6\testsforlab6\test.cpp(206,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab6\testsforlab6\test.cpp(222,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab6\testsforlab6\test.cpp(222,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab6\testsforlab6\test.cpp(175): warning C4715: t5Prefix: значение возвращается не при всех путях выполнения
+  testsforlab6.vcxproj -> D:\all labs\lab6\testsforlab6\x64\Debug\testsforlab6.exe

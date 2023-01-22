@@ -1,0 +1,25 @@
+﻿  n6.cpp
+D:\all labs\lab7\n6\n6.cpp(12,17): warning C4309: инициализация: усечение константного значения
+D:\all labs\lab7\n6\n6.cpp(27,9): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(43,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(58,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(89,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(94,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(94,73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(103,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(103,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(105,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(134,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(137,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(137,73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(145,43): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(145,77): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(147,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(175,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(179,40): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(179,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(187,44): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(187,80): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n6\n6.cpp(189,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab4\bestcheck\top.h(141): warning C4715: choice: значение возвращается не при всех путях выполнения
+  n6.vcxproj -> D:\all labs\lab7\lab7\x64\Debug\n6.exe

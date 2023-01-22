@@ -1,0 +1,5 @@
+﻿  n7.cpp
+D:\all labs\lab5\n7_hard\n7.cpp(29,17): warning C4244: аргумент: преобразование "__int64" в "long double", возможна потеря данных
+D:\all labs\lab5\n7_hard\n7.cpp(29,12): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+D:\all labs\lab5\n7_hard\n7.cpp(15): warning C4715: recursiveFunction: значение возвращается не при всех путях выполнения
+  n7_hard.vcxproj -> D:\all labs\lab5\n7_hard\x64\Debug\n7_hard.exe

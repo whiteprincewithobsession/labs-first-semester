@@ -1,0 +1,13 @@
+﻿  test.cpp
+D:\all labs\lab7\testslab7\test.cpp(118,30): warning C4244: аргумент: преобразование "__int64" в "long double", возможна потеря данных
+D:\all labs\lab7\testslab7\test.cpp(118,37): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+D:\all labs\lab7\testslab7\test.cpp(139,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\testslab7\test.cpp(153,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\testslab7\test.cpp(165,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\testslab7\test.cpp(177,32): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\testslab7\test.cpp(209,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab7\testslab7\test.cpp(214,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab7\testslab7\test.cpp(219,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab7\testslab7\test.cpp(225,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab7\testslab7\test.cpp(207): warning C4715: task77: значение возвращается не при всех путях выполнения
+  testslab7.vcxproj -> D:\all labs\lab7\testslab7\x64\Debug\testslab7.exe

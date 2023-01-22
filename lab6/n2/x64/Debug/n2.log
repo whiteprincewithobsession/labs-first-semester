@@ -1,0 +1,3 @@
+﻿  n2.cpp
+D:\all labs\lab4\bestcheck\top.h(144): warning C4715: choice: значение возвращается не при всех путях выполнения
+  n2.vcxproj -> D:\all labs\lab6\full_lab\x64\Debug\n2.exe

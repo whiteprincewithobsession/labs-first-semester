@@ -1,0 +1,3 @@
+﻿  n7.cpp
+D:\all labs\lab6\n7\n7.cpp(21,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  n7.vcxproj -> D:\all labs\lab6\n7\x64\Debug\n7.exe

@@ -1,0 +1,5 @@
+﻿  n11rew.cpp
+D:\all labs\lab4\n11rework\n11rew.cpp(18,23): warning C4244: =: преобразование "long double" в "int", возможна потеря данных
+D:\all labs\lab4\n11rework\n11rew.cpp(27,23): warning C4244: =: преобразование "long double" в "int", возможна потеря данных
+D:\all labs\lab4\bestcheck\top.h(178): warning C4715: isMinesweeper: значение возвращается не при всех путях выполнения
+  n11rework.vcxproj -> D:\all labs\lab4\n11rework\x64\Debug\n11rework.exe

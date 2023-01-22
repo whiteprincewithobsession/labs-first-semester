@@ -1,0 +1,4 @@
+﻿  n9.cpp
+D:\all labs\lab7\n9\n9.cpp(89,21): warning C4244: +=: преобразование "long double" в "int", возможна потеря данных
+D:\all labs\lab4\bestcheck\top.h(141): warning C4715: choice: значение возвращается не при всех путях выполнения
+  n9.vcxproj -> D:\all labs\lab7\lab7\x64\Debug\n9.exe

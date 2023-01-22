@@ -1,0 +1,30 @@
+﻿  n3.cpp
+D:\all labs\lab7\n3\n3.cpp(19,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(29,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(29,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(30,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(62,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(62,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(63,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(109,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(112,33): warning C4244: аргумент: преобразование "__int64" в "long double", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(112,36): warning C4244: +=: преобразование "long double" в "__int64", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(114,33): warning C4244: аргумент: преобразование "__int64" в "long double", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(114,36): warning C4244: +=: преобразование "long double" в "__int64", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(141,38): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(149,38): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(157,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(158,53): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(162,23): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(170,38): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(174,38): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(182,38): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(186,38): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(194,34): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(199,34): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(204,34): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(209,34): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(214,27): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab7\n3\n3.cpp(219,27): warning C4244: аргумент: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab4\bestcheck\top.h(144): warning C4715: choice: значение возвращается не при всех путях выполнения
+  n3.vcxproj -> D:\all labs\lab7\n3\x64\Debug\n3.exe

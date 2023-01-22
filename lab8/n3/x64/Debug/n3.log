@@ -1,0 +1,21 @@
+﻿  functions.cpp
+D:\all labs\lab8\n3\functions.cpp(70,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(75,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(80,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(86,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(92,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(98,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(119,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(124,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(129,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(135,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(141,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(147,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(210,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(224,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(237,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(250,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(263,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(276,3): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab8\n3\functions.cpp(484,7): warning C4101: tmp: неиспользованная локальная переменная
+  n3.vcxproj -> D:\all labs\lab8\n3\x64\Debug\n3.exe

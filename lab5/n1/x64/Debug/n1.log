@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\all labs\lab5\n1\Source.cpp(1,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+D:\all labs\lab5\t4\t4.h(16,13): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab5\t4\t4.h(17,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  n1.vcxproj -> D:\all labs\lab5\n1\x64\Debug\n1.exe

@@ -1,0 +1,6 @@
+﻿  libCheck.cpp
+  qCheck.cpp
+D:\dynlbi\qCheck.cpp(6,14): warning C4101: x: неиспользованная локальная переменная
+  Создание кода...
+     Создается библиотека D:\fulllab5\x64\Debug\dynlbi.lib и объект D:\fulllab5\x64\Debug\dynlbi.exp
+  dynlbi.vcxproj -> D:\fulllab5\x64\Debug\dynlbi.dll

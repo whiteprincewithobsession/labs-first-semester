@@ -1,0 +1,8 @@
+﻿  n7.cpp
+D:\all labs\lab7\n7gg\n7.cpp(121,30): warning C4244: аргумент: преобразование "__int64" в "long double", возможна потеря данных
+D:\all labs\lab7\n7gg\n7.cpp(121,37): warning C4244: =: преобразование "long double" в "__int64", возможна потеря данных
+D:\all labs\lab7\n7gg\n7.cpp(146,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n7gg\n7.cpp(160,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n7gg\n7.cpp(173,45): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab7\n7gg\n7.cpp(185,32): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  n7gg.vcxproj -> D:\all labs\lab7\n7gg\x64\Debug\n7gg.exe

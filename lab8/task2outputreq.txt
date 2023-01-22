@@ -1,0 +1,24 @@
+Jackets
+Date of arrival: 29.3.2022
+The item is already in stoch for 257
+Cost: 84500
+Amount of such goods: 507000
+Profit from selling:  507000 rubles
+
+
+Pants
+Date of arrival: 5.7.2021
+The item is already in stoch for 526
+Cost: 57000
+Amount of such goods: 513000
+Profit from selling:  513000 rubles
+
+
+Shirts
+Date of arrival: 12.11.2022
+The item is already in stoch for 34
+Cost: 72543
+Amount of such goods: 1.37832e+06
+Profit from selling:  1.37832e+06 rubles
+
+

@@ -1,0 +1,10 @@
+﻿  test.cpp
+D:\all labs\lab5\n5_tests\test.cpp(8,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n5_tests\test.cpp(17,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n5_tests\test.cpp(25,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n5_tests\test.cpp(32,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab5\n5_tests\test.cpp(49,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n5_tests\test.cpp(56,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab5\n5_tests\test.cpp(75,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+D:\all labs\lab5\n5_tests\test.cpp(88,1): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "TEST"
+  n5_tests.vcxproj -> D:\all labs\lab5\n3_test\x64\Debug\n5_tests.exe

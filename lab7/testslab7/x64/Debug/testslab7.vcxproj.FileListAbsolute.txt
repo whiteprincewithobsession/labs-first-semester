@@ -1,0 +1,4 @@
+D:\all labs\lab7\testslab7\x64\Debug\testslab7.vcxproj.CopyComplete
+D:\all labs\lab7\testslab7\x64\Debug\testslab7.exe
+D:\all labs\lab7\testslab7\x64\Debug\gtest.pdb
+D:\all labs\lab7\testslab7\x64\Debug\gtest_main.pdb

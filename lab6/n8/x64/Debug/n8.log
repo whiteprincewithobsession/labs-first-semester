@@ -1,0 +1,7 @@
+﻿  n8.cpp
+D:\all labs\lab6\n8\n8.cpp(21,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab6\n8\n8.cpp(22,30): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab6\n8\n8.cpp(61,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab6\n8\n8.cpp(77,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\all labs\lab6\n8\n8.cpp(77,49): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  n8.vcxproj -> D:\all labs\lab6\n8\x64\Debug\n8.exe

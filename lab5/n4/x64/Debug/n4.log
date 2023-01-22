@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\all labs\lab5\n4\Source.cpp(19,13): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab5\n4\Source.cpp(20,14): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  n4.vcxproj -> D:\all labs\lab5\n4\x64\Debug\n4.exe

@@ -1,0 +1,4 @@
+﻿  t4functions.cpp
+D:\all labs\lab5\lab5new\t4\t4functions.cpp(19,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+D:\all labs\lab5\lab5new\t4\t4functions.cpp(20,20): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  t4.vcxproj -> D:\fulllab5\x64\Debug\t4.exe

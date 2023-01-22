@@ -1,0 +1,2 @@
+D:\all labs\lab5\n5_tests\x64\Debug\n5_tests.vcxproj.CopyComplete
+D:\all labs\lab5\n5_tests\x64\Debug\n5_tests.exe

@@ -1,0 +1,4 @@
+﻿  n6.cpp
+D:\all labs\lab6\n6\n6.cpp(12,13): warning C4101: y: неиспользованная локальная переменная
+D:\all labs\lab6\n6\n6.cpp(32,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  n6.vcxproj -> D:\all labs\lab6\n6\x64\Debug\n6.exe

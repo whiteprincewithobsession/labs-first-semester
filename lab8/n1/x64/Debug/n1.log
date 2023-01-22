@@ -1,0 +1,9 @@
+﻿  checker.cpp
+  functions_task1.cpp
+D:\all labs\lab8\n1\functions_task1.cpp(50,23): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  n1.cpp
+  Создание кода...
+D:\all labs\lab4\bestcheck\top.h(144): warning C4715: choice: значение возвращается не при всех путях выполнения
+D:\all labs\lab8\n1\checker.cpp(73): warning C4715: choice1: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка D:\all labs\lab8\full_lab\x64\Debug\n1.exe при последней инкрементной компоновке; выполняется полная компоновка
+  n1.vcxproj -> D:\all labs\lab8\full_lab\x64\Debug\n1.exe

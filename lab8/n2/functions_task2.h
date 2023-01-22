@@ -1,0 +1,17 @@
+extern int sizearray;
+extern const int day1;
+extern int month1;
+extern int year1;
+struct goods;
+goods* creator(int& n);
+goods* creatorWithFile(int& n);
+void printerArray(goods* items, int n);
+void arrayChanger(goods* items, int n);
+void printerRequired(goods* items, int size);
+goods* removeElement(goods* items, int index, int& size);
+goods* addGoods(goods* items, int& size);
+goods* changeElement(goods* items, int index);
+goods* findingRequired(goods * items, int& size);
+bool isEmpty();
+void selectionSort(goods* items, int& size);
+goods* creatorSorted(goods* items, int& size);

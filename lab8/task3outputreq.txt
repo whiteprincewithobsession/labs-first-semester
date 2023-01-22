@@ -1,0 +1,32 @@
+Book 1
+Registration number: 7655
+Author - A.S.Pushkin
+Title - Gypsies
+Year of publication: 1834
+Publisher - "Pravda"
+Total pages - 13
+
+Book 4
+Registration number: 54
+Author - L.N.Tolstoi
+Title - Strider
+Year of publication: 1883
+Publisher - Unknown
+Total pages - 232
+
+Book 2
+Registration number: 123
+Author - M.C.Conor
+Title - Title
+Year of publication: 2021
+Publisher - Genius
+Total pages - 54
+
+Book 3
+Registration number: 1
+Author - W.Shakespeare
+Title - Hamlet
+Year of publication: 1601
+Publisher - None
+Total pages - 824
+

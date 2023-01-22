@@ -1,0 +1,4 @@
+﻿  qCheck.cpp
+D:\all labs\lab5\DynamicLiib\qCheck.cpp(6,14): warning C4101: x: неиспользованная локальная переменная
+     Создается библиотека D:\all labs\lab5\DynamicLiib\x64\Debug\DynamicLiib.lib и объект D:\all labs\lab5\DynamicLiib\x64\Debug\DynamicLiib.exp
+  DynamicLiib.vcxproj -> D:\all labs\lab5\DynamicLiib\x64\Debug\DynamicLiib.dll
